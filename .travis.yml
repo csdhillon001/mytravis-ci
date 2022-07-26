@@ -1,0 +1,10 @@
+---
+language: python
+
+python:
+ - "3.4"
+
+script: python hello.py
+
+# My test test CI at travis-ci
+#date 07/26/2022
